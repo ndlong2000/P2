@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
         bias = atoi(argv[4]);
     }
     else{
-        for(int i=1;i<5;i++){
+        for(int i=1;i<argc;i++){
         int d = getPos(argv[i],'=');
         char key[20];
         char value[20];
