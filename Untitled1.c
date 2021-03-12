@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
         int pM,pw,pd,ph,pm; //vi tri cua M,w,d,h,m
         pM=pw=pd=ph=pm=0;
         //tim so thang, so tuan,so ngay,so gio, so phut
-        int nM,nw,nd,nh,nm,ns;//so thang,so tuan,so ngay,so gio,so phut
+        int nM,nw,nd,nh,nm,ns;//so thang,so tuan,so ngay,so gio,so phut,so giay
         nM=nw=nd=nh=nm=ns=0;
         char temp[50],a[10];
         strcpy(temp,argv[1]+2);
