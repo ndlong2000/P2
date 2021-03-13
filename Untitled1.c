@@ -109,5 +109,5 @@ int main(int argc, char *argv[])
     printf("end=%lu\n",end);
     printf("fileName=%s\n",fileName);
     printf("bias=%d\n",bias);
-    printf("t=%lu\n",t);
+    printf("t=%llu\n",t);
 }
