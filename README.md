@@ -9,3 +9,10 @@ int main()  {
     funLine5p(62.23,8,96668767,28.6,19.23,4.6);
 
 mình có thể thay các tham số tương ứng trong các hàm
+
+CarParking.rar
+phím lên : đi tiến,
+phím lùi : đi lùi,
+space : phanh,
+giữ b : tăng tốc,
+di chuyển xung quanh Joytick
